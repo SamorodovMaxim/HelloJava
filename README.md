@@ -1,2 +1,1 @@
-# HelloJava
-Test
+System.out.println("Hello Java!");
